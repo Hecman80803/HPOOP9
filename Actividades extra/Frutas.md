@@ -1,0 +1,18 @@
+# Frutas
+- **Tipos**
+  - *Cítricos*
+    - Naranja
+    - Limón
+    - Mandarina
+  - *Tropicales*
+    - Piña
+    - Mango
+    - Papaya
+- **Propiedades**
+  - Ricas en vitaminas
+  - Variedad de colores
+  - Nutritivas
+- **Usos**
+  - Consumo directo
+  - Elaboración de jugos
+  - Postres y repostería
